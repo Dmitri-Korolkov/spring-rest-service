@@ -1,4 +1,0 @@
-Telephone number: 00420 123 456 789
-First name: test
-Last name: unit
-Time: 15:07:19
